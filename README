@@ -1,4 +1,8 @@
 
+cbatticon ported to NetBSD
+Please build with gmake
+P.S. This is only tested on a MacbookAir7,2 (but should work with any battery as long as it's defined as acpibat0)
+
 A lightweight and fast battery icon that sits in your system tray.
 Based on code from xbattbar-acpi.
 
